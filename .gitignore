@@ -1,5 +1,12 @@
 *.tmp
+<<<<<<< HEAD
 /target/
 .classpath
 .project
 .settings/
+=======
+.classpath
+.project
+.settings/
+target/
+>>>>>>> dev2
