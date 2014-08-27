@@ -10,6 +10,6 @@ public class App
     {
     	String str = "this is add in branch dev";
         System.out.println( "Hello World!" );
-	String str = "this is add in branch dev2";
+	String str1 = "this is add in branch dev";
     }
 }
